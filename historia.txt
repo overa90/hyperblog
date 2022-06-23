@@ -1,4 +1,4 @@
-Esto es un título de la vida nueva
+Esto es un título
 
 Esto es un título centrado
 
@@ -7,12 +7,5 @@ Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 Y esto de arriba es la foto de unas Suricatas.
 
-esto es un commit
-xxxxxxxxxxxxxxxxxxxxxxxxxx
-en camara parece alto pero no lo es
-ñññññññññññññññññññññññññññññ
 
-
-en camara parece alto,pero no es tan alto
-
-Hoy hablaremos de su viday obra maestra
+mañana nos enfocaremos en su vida laboral
