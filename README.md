@@ -8,4 +8,5 @@ un blog increible para el curso de Git
 ### ## En este curso veremos *dddddd*
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y mac
+* Disponible para todas la edades
 
