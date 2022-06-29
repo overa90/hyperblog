@@ -6,4 +6,5 @@ un blog increible para el curso de Git
 2022-06-28 14:14:16 Tuesday
 
 ### ## En este curso veremos *dddddd*
+* Creado por el increible Platzi Team
 
